@@ -1,0 +1,1 @@
+This is amphoterism's first git project!
